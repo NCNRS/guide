@@ -1,0 +1,14 @@
+[book]
+title = "Guide to Night City"
+authors = ["Night City Script Kid"]
+description = "Night City provides automated red team infrastructure and managment"
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/NCNRS/guide"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/NCNRS/guide/edit/main/guide/{path}"
